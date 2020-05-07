@@ -11,6 +11,5 @@ Aplicação de transações financeiras
 # Para rodar o projeto
  - yarn start
 
-
 # Backend
  - yarn dev:server
